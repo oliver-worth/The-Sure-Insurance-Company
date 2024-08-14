@@ -11,6 +11,8 @@ The Sure Tomorrow insurance company tasked us with solving several machine-learn
 - Data Obfuscation: Protecting customers' personal data through data masking while ensuring the accuracy of machine learning models.
 - The main mathematical challenge was to prove that data obfuscation using an invertible matrix does not affect the performance of a linear regression model.
 
+This project develops an efficient kNN algorithm ML model to predict if a new customer is likely to receive an insurance benefit based on Euclidean and Manhattan distance (L1 and L2), an accurate custom-made linear-regression model that predicts the number of insurance benefits a new customer is likely to receive and uses obfuscation to protect clients' personal data without breaking the linear regression model.
+
 ## Data Description
 The dataset is stored in the file insurance_us.csv. It includes:
 
@@ -143,5 +145,7 @@ This project successfully demonstrated that:
 - Machine learning models can be used effectively for customer similarity analysis and benefit prediction.
 - Data obfuscation using an invertible matrix does not compromise the performance of linear regression models, providing a robust method for protecting sensitive data.
 - The mathematical proofs and computational results validate that data privacy can be achieved without sacrificing model accuracy, making this approach practical for real-world applications.
+
+
 
 
