@@ -1,6 +1,8 @@
 # Sure Tomorrow Insurance Company - Machine Learning Project
-
+![Linear Regression](./linearregression.png)
+![Logistic Regression](./logisticregression.png)
 ## Project Overview
+
 The Sure Tomorrow insurance company tasked us with solving several machine learning challenges to improve their customer service and data security. This project focuses on:
 
 - Customer Similarity Analysis: Finding customers who are similar to a given customer to assist in targeted marketing.
