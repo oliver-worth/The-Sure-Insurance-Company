@@ -3,7 +3,7 @@
 ![Logistic Regression](./logisticregression.png)
 ## Project Overview
 
-The Sure Tomorrow insurance company tasked us with solving several machine learning challenges to improve their customer service and data security. This project focuses on:
+The Sure Tomorrow insurance company tasked us with solving several machine-learning challenges to improve their customer service and data security. This project focuses on:
 
 - Customer Similarity Analysis: Finding customers who are similar to a given customer to assist in targeted marketing.
 - Benefit Prediction: Predicting whether a new customer is likely to receive an insurance benefit.
